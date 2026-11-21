@@ -1,0 +1,17 @@
+This project helped us analyze employee attendance and productivity using Excel tools and functions. We learned to organize data, apply formulas, sort and filter information, and create charts. The analysis showed that the Development department had the highest average productivity. It also highlighted the relationship between employee attendance and tasks completed. The use of conditional formatting, heat maps, and visualizations made the data easier to understand. This project demonstrates how Excel can transform raw data into meaningful insights. Overall, it helps organizations make better decisions and improve employee performance and productivity.
+Part E – Interpretation
+
+1. Which department has the highest productivity? 
+ The Development department has the highest productivity, with an average of 38.2 tasks per employee and a total of 191 tasks completed.
+
+2. Who has completed the maximum number of tasks? 
+ Indhu from the Development department has completed the maximum number of tasks, with a total of 48 tasks and 98% attendance.
+
+3. How many employees have poor attendance?
+ Two employees, Charan and Gokul, have poor attendance, with 72% and 68% respectively.
+
+4. Does higher attendance necessarily indicate higher productivity? 
+ No, higher attendance does not always mean higher productivity. Although attendance and productivity are positively related, an employee’s performance also depends on workload, job role, skills, and working conditions.
+
+5. Suggest measures to improve employee productivity.
+ Employee productivity can be improved by providing proper training, setting clear goals, recognizing high performers, encouraging teamwork, and offering support to employees who face difficulties. Regular performance reviews and a positive working environment can also help improve efficiency.
