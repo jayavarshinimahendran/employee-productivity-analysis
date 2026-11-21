@@ -81,7 +81,7 @@ The following charts and visualizations were created:
 4. Scatter Chart – Attendance vs Tasks Completed: Shows the relationship between employee attendance and productivity.
 5. Heat Map: Highlights department-wise productivity using colour scales.
 
-8. Important Observations
+ 8. Important Observations
 
 - The dataset contains 12 employees from three departments.
 - The overall average attendance is 85.08%.
